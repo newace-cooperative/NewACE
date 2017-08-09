@@ -22,3 +22,13 @@ Je voordeel bij een installatie bij jou thuis is dat je geen energiebelasting en
 
 Alle deelnemers brengen elke maand met elkaar de totale kosten op, verrekend naar rato van de verbruikte kilowatturen per huishouden (alleen over de stroom die van buiten via de meter jouw huis binnenkomt betaal je de energiebelasting). De kosten betreffen de financiering en het onderhoud van de installaties, de benodigde administratie, plus enige research & development en marketing. De mensen die dat uitvoeren krijgen daar een redelijk salaris voor betaald. Geen bonussen, geen auto's met chauffeur. Dat scheelt hoopjes.
 
+
+
+### De winnende opslag
+Opslagcapaciteit blijft de komende jaren snel steeds goedkoper worden. Net als we gezien hebben met de zonnepanelen. Daar hoeven we geen slicke grafiekjes bij te halen. Er is eerst minder onderzoek nodig.
+
+
+Communicerende vaten: 
+De service is alles: 
+Peer to peer: 
+Waardemaximalisatie: 
