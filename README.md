@@ -31,7 +31,8 @@ Het kopplen van opslag aan een opweksysteem maakt elke installatie op zichzelf a
 ### New ACE - de service is alles
 Duurzame energie is leuk, voor veel mensen, maar je moet er geen trammelant van hebben. Stekker erin en klaar. Je hebt wel andere hobby's. Daarom beheert de coöperatie de installaties, heb je nergens omkijken naar en in de rekening klip en klaar. Omdat we allemaal met elkaar verbonden zijn en we alleen maar organiseren wat we allemaal nodig hebben, kunnen we het duurzamer, simpeler én goedkoper doen dan we nu zijn gewend.
 
-Peer to peer: 
+### Peer to peer
+Wie heeft ooit bedacht dat energie uit een centrale moet komen? Energiecentrales kosten miljarden aan spullen en logistiek, maar óók aan managers en adviseurs in dure pakken. De stroom legt grote afstanden af naar de haarvaten van het net en elke kilometer kost rendement. Decentrale opwek is duurzamer, robuuster en efficiënter. We doen het zelf, zonder de centrale.
 
 Waardemaximalisatie: 
 
