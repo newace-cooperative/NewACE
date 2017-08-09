@@ -34,5 +34,6 @@ Duurzame energie is leuk, voor veel mensen, maar je moet er geen trammelant van 
 ### Peer to peer
 Wie heeft ooit bedacht dat energie uit een centrale moet komen? Energiecentrales kosten miljarden aan spullen en logistiek, maar óók aan managers en adviseurs in dure pakken. De stroom legt grote afstanden af naar de haarvaten van het net en elke kilometer kost rendement. Decentrale opwek is duurzamer, robuuster en efficiënter. We doen het zelf, zonder de centrale.
 
-Waardemaximalisatie: 
+### Waardemaximalisatie
+Definieer waarde als wat bijdraagt aan het realiseren van de doelstelling van de organisatie vanuit het perspectief van de klant. New ACE organiseert de productie en levering van trammelantvrije duurzame en voordelige coöperatieve energie, voor en door de deelnemers zelf. Daar sturen we op. Niet op winst, niet op targets en bonussen, niet op aandelenkoersen, maar puur en alleen op waarde.
 
