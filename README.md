@@ -26,9 +26,10 @@ Alle deelnemers brengen elke maand met elkaar de totale kosten op, verrekend naa
 Opslagcapaciteit blijft de komende jaren snel steeds goedkoper worden. Net als we gezien hebben met de zonnepanelen. Daar hoeven we geen slicke grafiekjes bij te halen - er is eerst minder onderzoek nodig. Een substantiële hoeveelheid opslag in je installaties maakt dat je al je duurzaam opgewekte stroom ook effectief en efficiënt kan aanwenden. Je hebt geen last van de ongelijktijdigheid van zonneschijn (midden op de dag) en energievraag ('s ochtends en 's avonds). Voor de wat langtijdiger schommelingen mikken we standaard op een bepaalde overcapaciteit: meer produceren als het kan om een buffer in opslag houden voor als het nodig is. Daarvoor zullen we ook moeten diversificeren in opwek: niet helemaal alleen maar zonnepanelen op privéadressen, maar ook deelnemingen in windmolens. De overcapaciteit en de windopwek dekken zo samen de winterse zonnedip af. Maar we zijn zonaanbidders. We zouden ons ook Coöperatie De Koperen Ploert kunnen noemen. Of, om het disruptieve karakter te benadrukken, Coup Soleil.
 
 ### Communicerende vaten
-Het kopplen van opslag aan een opweksysteem maakt het totaal op zichzelf al eindeloos veel effectiever, maar het koppelen van al die opslagpunten onderling maakt het totale systeem tot een uitrmate veerkrachtig en betrouwbaar geheel, dat inderdaad veel meer is dan de som der delen van losse zonnepanelen voor privégebruik.
+Het kopplen van opslag aan een opweksysteem maakt elke installatie op zichzelf al eindeloos veel effectiever, maar het koppelen van al die opslagpunten onderling maakt het totale systeem tot een uitermate veerkrachtig en betrouwbaar geheel, dat inderdaad veel meer is dan de som der delen van losse zonnepanelen voor privégebruik.
 
 ### New ACE - de service is alles
+Duurzame energie is leuk, voor veel mensen, maar je moet er geen trammelant van hebben. Stekker erin en klaar. Je hebt wel andere hobby's. Daarom beheert de coöperatie de installaties, heb je nergens omkijken naar en in de rekening klip en klaar. Omdat we allemaal met elkaar verbonden zijn en we alleen maar organiseren wat we allemaal nodig hebben, kunnen we het duurzamer, simpeler én goedkoper doen dan we nu zijn gewend.
 
 Peer to peer: 
 
