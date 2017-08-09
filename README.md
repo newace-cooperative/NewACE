@@ -22,13 +22,15 @@ Je voordeel bij een installatie bij jou thuis is dat je geen energiebelasting en
 
 Alle deelnemers brengen elke maand met elkaar de totale kosten op, verrekend naar rato van de verbruikte kilowatturen per huishouden (alleen over de stroom die van buiten via de meter jouw huis binnenkomt betaal je de energiebelasting). De kosten betreffen de financiering en het onderhoud van de installaties, de benodigde administratie, plus enige research & development en marketing. De mensen die dat uitvoeren krijgen daar een redelijk salaris voor betaald. Geen bonussen, geen auto's met chauffeur. Dat scheelt hoopjes.
 
+### New ACE - de winnende opslag
+Opslagcapaciteit blijft de komende jaren snel steeds goedkoper worden. Net als we gezien hebben met de zonnepanelen. Daar hoeven we geen slicke grafiekjes bij te halen - er is eerst minder onderzoek nodig. Een substantiële hoeveelheid opslag in je installaties maakt dat je al je duurzaam opgewekte stroom ook effectief en efficiënt kan aanwenden. Je hebt geen last van de ongelijktijdigheid van zonneschijn (midden op de dag) en energievraag ('s ochtends en 's avonds). Voor de wat langtijdiger schommelingen mikken we standaard op een bepaalde overcapaciteit: meer produceren als het kan om een buffer in opslag houden voor als het nodig is. Daarvoor zullen we ook moeten diversificeren in opwek: niet helemaal alleen maar zonnepanelen op privéadressen, maar ook deelnemingen in windmolens. De overcapaciteit en de windopwek dekken zo samen de winterse zonnedip af.
+
+### Communicerende vaten
 
 
-### De winnende opslag
-Opslagcapaciteit blijft de komende jaren snel steeds goedkoper worden. Net als we gezien hebben met de zonnepanelen. Daar hoeven we geen slicke grafiekjes bij te halen. Er is eerst minder onderzoek nodig.
-
-
-Communicerende vaten: 
 De service is alles: 
+
 Peer to peer: 
+
 Waardemaximalisatie: 
+
