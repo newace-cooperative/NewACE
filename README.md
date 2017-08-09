@@ -8,3 +8,17 @@ Iedereen heeft het over de energitransitie. Een wolk van creativiteit. Kansen. I
 - De transitie kent de centrales, de toekomst is decentraal. 
 - De transitie kent rotte appels, de toekomst is peer to peer.
 
+## New ACE - Opslag as a Service
+New ACE is Autonome Coöperatieve Energie. De basisgedachte is deze:
+- Energie wordt duurzaam opgewekt en lokaal opgeslagen
+- We zijn onderling allemaal vebonden met die opslag
+- We hebben er geen omkijken naar
+- We doen het samen allemaal zelf
+- Er hoeft niemand rijk van te worden
+
+New ACE is een coöperatieve energieleverancier met de aangesloten huishoudens als deelnemers. De energie komt van gecombineerde opwek- en opslaginstallaties bij deelnemers thuis, die door de coöperatie worden beheerd. Onderdak bieden aan zo'n instalatie is optioneel; zonder installatie kan je ook gewoon meedoen.
+
+Je voordeel bij een installatie bij jou thuis is dat je geen energiebelasting en BTW hoeft te betalen over de stroom die je er zelf uit gebruikt - en die belasting vormt normaal zo'n 70% van de kilowattuurprijs. De installatie wordt beheerd door de coöperatie; je hebt er geen omkijken naar. Als je met een bestaande installatie mee wil doen, kan de coöperatie die van je overnemen. De stroom die je zelf niet gebruikt wordt verdeeld naar andere deelnemers. En op sommige momenten zal het ook andersom lopen: dat jij stroom afneemt die in een installatie bij iemand anders thuis is opgewekt.
+
+Alle deelnemers brengen elke maand met elkaar de totale kosten op, verrekend naar rato van de verbruikte kilowatturen per huishouden (alleen over de stroom die van buiten via de meter jouw huis binnenkomt betaal je de energiebelasting). De kosten betreffen de financiering en het onderhoud van de installaties, de benodigde administratie, plus enige research & development en marketing. De mensen die dat uitvoeren krijgen daar een redelijk salaris voor betaald. Geen bonussen, geen auto's met chauffeur. Dat scheelt hoopjes.
+
