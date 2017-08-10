@@ -29,7 +29,7 @@ Opslagcapaciteit blijft de komende jaren snel steeds goedkoper worden. Net als w
 Het kopplen van opslag aan een opweksysteem maakt elke installatie op zichzelf al eindeloos veel effectiever, maar het koppelen van al die opslagpunten onderling maakt het totale systeem tot een uitermate veerkrachtig en betrouwbaar geheel, dat inderdaad veel meer is dan de som der delen van losse zonnepanelen voor privégebruik.
 
 ### New ACE - de service is alles
-Duurzame energie is leuk, voor veel mensen, maar je moet er geen trammelant van hebben. Stekker erin en klaar. Je hebt wel andere hobby's. Daarom beheert de coöperatie de installaties, heb je nergens omkijken naar en in de rekening klip en klaar. Omdat we allemaal met elkaar verbonden zijn en we alleen maar organiseren wat we allemaal nodig hebben, kunnen we het duurzamer, simpeler én goedkoper doen dan we nu zijn gewend.
+Duurzame energie is leuk, voor veel mensen, maar je moet er geen trammelant van hebben. Stekker erin en klaar. Je hebt wel andere hobby's. Daarom beheert de coöperatie de installaties, heb je nergens omkijken naar en is de rekening klip en klaar. Omdat we allemaal met elkaar verbonden zijn en we alleen maar organiseren wat we allemaal nodig hebben, kunnen we het duurzamer, simpeler én goedkoper doen dan we nu zijn gewend.
 
 ### Peer to peer
 Wie heeft ooit bedacht dat energie uit een centrale moet komen? Energiecentrales kosten miljarden aan spullen en logistiek, maar óók aan managers en adviseurs in dure pakken. De stroom legt grote afstanden af naar de haarvaten van het net en elke kilometer kost rendement. Decentrale opwek is duurzamer, robuuster en efficiënter. We doen het zelf, zonder de centrale.
