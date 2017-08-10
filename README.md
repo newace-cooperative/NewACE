@@ -8,6 +8,18 @@ Iedereen heeft het over de energitransitie. Een wolk van creativiteit. Kansen. I
 - De transitie kent de centrales, de toekomst is decentraal. 
 - De transitie kent rotte appels, de toekomst is peer to peer.
 
+## Inhoud
+- [New balls, please](#new-balls-please)
+- [New ACE - Opslag as a Service](#new-ace---opslag-as-a-service)
+  - [New ACE - de winnende opslag](#new-ace---de-winnende-opslag)
+  - [Communicerende vaten](#communicerende-vaten)
+  - [New ACE - de service is alles](#new-ace---de-service-is-alles)
+  - [Peer to peer](#peer-to-peer)
+  - [Waardemaximalisatie](#waardemaximalisatie)
+- [De financiële paragraaf](#de-financiële-paragraaf)
+  - [Eigen inleg](#eigen-inleg)
+  - [Rekenen](#rekenen)
+
 ## New ACE - Opslag as a Service
 New ACE is Autonome Coöperatieve Energie. De basisgedachte is deze:
 - Energie wordt duurzaam opgewekt en lokaal opgeslagen
