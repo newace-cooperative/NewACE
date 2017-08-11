@@ -65,9 +65,8 @@ Op je nota zie je elke maand precies welke kosten er zijn meegeteld en hoe de ve
 Zoals gezegd, New ACE organiseert de productie en levering van trammelantvrije duurzame en voordelige coöperatieve energie, voor en door de deelnemers zelf. Dit is wat we daarmee willen bereiken:
 
 - Voor wonen en autorijden is geen brandstof meer nodig. De lucht wordt schoner. De klimaatopwarming wordt afgeremd. Veel gevaarlijke mijnbouwactiviteiten zijn overbodig.
-- We betalen alleen wat we zelf gebruiken, omdat we het samen zelf organiseren. Geen verplichte sponsoring meer van de leefstijlen van "topbestuurders". 
+- We betalen alleen wat we zelf gebruiken, omdat we het samen zelf organiseren. Geen verplichte sponsoring meer van de leefstijlen van "topbestuurders" en grootaandeelhouders. 
 - Deelnemen in een coöperatie stimuleert gevoelens van eigenwaarde én van verbondenheid. We voelen ons lekkerder.
 - De energiecoöperatie stelt een voorbeeld voor de organisatie van maatschappelijke activiteiten in andere domeinen.
 
-
-
+Hoe meer deelnemers, des te groter deze effecten. Bovendien: hoe meer deelnemers, des te veerkrachtiger het systeem. Het model wordt op alle punten steeds zo eenvoudig mogelijk gehouden, om de schaalbaarheid te bevorderen. Schaalbaarheid niet alleen in aantallen deelnemers, maar ook in uitbreiding over ruimte én tijd. We pinnen ons niet vast op toevallige regelingingen van een bepaald moment in een bepaald land (bijvoorbeeld de [postcoderoos](https://nl.wikipedia.org/wiki/Postcoderoos)). We doen wat hier nu werkt en daar ook en straks ook nog. En later, als we groot zijn. Ook dat is duurzaam.
