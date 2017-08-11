@@ -20,6 +20,7 @@ Iedereen heeft het over de energitransitie. Een wolk van creativiteit. Kansen. I
   - [Eigen inleg](#eigen-inleg)
   - [Rekenen](#rekenen)
 - [Waarheen, waarvoor?](#waarheen-waarvoor)
+  - [Rome](#rome)
 
 ## New ACE - Opslag as a Service
 New ACE is Autonome Coöperatieve Energie. De basisgedachte is deze:
@@ -70,3 +71,7 @@ Zoals gezegd, New ACE organiseert de productie en levering van trammelantvrije d
 - De energiecoöperatie stelt een voorbeeld voor de organisatie van maatschappelijke activiteiten in andere domeinen.
 
 Hoe meer deelnemers, des te groter deze effecten. Bovendien: hoe meer deelnemers, des te veerkrachtiger het systeem. Het model wordt op alle punten steeds zo eenvoudig mogelijk gehouden, om de schaalbaarheid te bevorderen. Schaalbaarheid niet alleen in aantallen deelnemers, maar ook in uitbreiding over ruimte én tijd. We pinnen ons niet vast op toevallige regelingingen van een bepaald moment in een bepaald land (bijvoorbeeld de [postcoderoos](https://nl.wikipedia.org/wiki/Postcoderoos)). We doen wat hier nu werkt en daar ook en straks ook nog. En later, als we groot zijn. Ook dat is duurzaam.
+
+Om het goed te laten werken, doen we heel veel dingen niet. We doen niet slim energie in- en verkopen op de realtime- en termijnmarkten. We doen niet slim apparaten aan- en uitschakelen. We doen niet slim kleine overschotten onderling verhandelen. Wat slim lijkt, blijkt vaak uiteindelijk niet zo wijs. Het enige wat we doen is zorgen voor onze eigen energie en dat die daar komt waar die nodig is. Hoe slim is dat?
+
+### Rome
