@@ -19,6 +19,7 @@ Iedereen heeft het over de energitransitie. Een wolk van creativiteit. Kansen. I
 - [De financiële paragraaf](#de-financiële-paragraaf)
   - [Eigen inleg](#eigen-inleg)
   - [Rekenen](#rekenen)
+- [Waarheen, waarvoor?](#waarheen-waarvoor)
 
 ## New ACE - Opslag as a Service
 New ACE is Autonome Coöperatieve Energie. De basisgedachte is deze:
@@ -47,7 +48,7 @@ Duurzame energie is leuk, voor veel mensen, maar je moet er geen trammelant van 
 Wie heeft ooit bedacht dat energie uit een centrale moet komen? Energiecentrales kosten miljarden aan spullen en logistiek, maar óók aan managers en adviseurs in dure pakken. De stroom legt grote afstanden af naar de haarvaten van het net en elke kilometer kost rendement. Decentrale opwek is duurzamer, robuuster en efficiënter. We doen het zelf, zonder de centrale.
 
 ### Waardemaximalisatie
-Definieer waarde als wat bijdraagt aan het realiseren van de doelstelling van de organisatie vanuit het perspectief van de klant. New ACE organiseert de productie en levering van trammelantvrije duurzame en voordelige coöperatieve energie, voor en door de deelnemers zelf. Daar sturen we op. Niet op winst, niet op targets en bonussen, niet op aandelenkoersen, maar puur en alleen op waarde.
+Definieer waarde als wat bijdraagt aan het realiseren van de bedoeling van de organisatie vanuit het perspectief van de klant. New ACE organiseert de productie en levering van trammelantvrije duurzame en voordelige coöperatieve energie, voor en door de deelnemers zelf. Daar sturen we op. Niet op winst, niet op targets en bonussen, niet op aandelenkoersen, maar puur en alleen op waarde.
 
 ## De financiële paragraaf
 De financiering en het beheer van de installaties en systemen vergen investeringen. Daarom bouwen we een investeringspot op via een reservering van (om te beginnen) 5 procent over elke maandelijkse afrekening. We willen namelijk graag zo ver mogelijk verwijderd blijven van alle rompslomp, regels en bemoeienissen die vastzitten aan deals met banken. Omdat het wel een tijdje gaat duren voordat de investeringspot is gevuld, werken we zeker in het begin ook met losse bijdragen van deelnemers in de coöperatie en van derden. Ook dat houden we weer simpel. Op een vaste pagina op onze website is steeds de actuele financieringsbehoefte te zien. Iedereen die dat wil kan daar inschrijven met een bedrag naar keuze. Dat bedrag komt dan altijd in 60 maandelijkse termijnen (5 jaar) weer volledig terug, plus 5 procent: leg je 2000 Euro in, krijg je 60 keer 35 is totaal 2100 Euro terug. Klaar. Deze terugbetalingen zijn onderdeel van de maandelijkse afrekening met de deelnemers in de coöperatie. Maar je betaalt dan als inleggend deelnemer natuurlijk niet mee aan je eigen terugbetaling.
@@ -59,3 +60,14 @@ Als je al overweegt om zonnepanelen aan te schaffen voor jezelf, zou je dus kunn
 De aanschaf van nieuwe installaties wordt betaald uit de investeringspot, die gevuld is met de verzamelde inleggelden en de procentuele opslag over de maandelijkse deelnemersbijdrage. De aanschafprijs als zodanig komt echter niet terug in de berekening van de maandelijkse kosten. Stel: een installatie kost 24.000 Euro, de verwachte levensduur is 20 jaar en de aanschaf gaat met 20.000 Euro aan inleggen (vreemd vermogen) en 4.000 Euro aan maandelijkse reserveringen (opgespaard eigen vermogen). Dan zijn de maandelijkse financieringskosten, die verrekend worden naar rato van de verbruikte kilowatturen per deelnemend huishouden: een afschrijving op de installatie van 24.000 / 240 maanden = 100 Euro, plus aflossingen ter hoogte van 21.000 (5% extra) / 60 maanden = 350 Euro; totaal 100 + 350 = 450 Euro. De aflossing aan inleggende deelnemers wordt gewoon verrekend met hun maandelijkse factuur, wat dus makkelijk jarenlang elke maand een creditnota kan zijn. En, zoals gezegd, deelnemers worden altijd buiten de betaling van de aflossing van hun eigen inleg gehouden.
 
 Op je nota zie je elke maand precies welke kosten er zijn meegeteld en hoe de verrekening per kilowattuur is gedaan. Op de website kan je op elk moment inzien welke installaties er zijn en hoe het kostenplaatje van elke installatie er voorstaat.
+
+## Waarheen, waarvoor?
+Zoals gezegd, New ACE organiseert de productie en levering van trammelantvrije duurzame en voordelige coöperatieve energie, voor en door de deelnemers zelf. Dit is wat we daarmee willen bereiken:
+
+- Voor wonen en autorijden is geen brandstof meer nodig. De lucht wordt schoner. De klimaatopwarming wordt afgeremd. Veel gevaarlijke mijnbouwactiviteiten worden overbodig.
+- We betalen alleen wat we zelf gebruiken, omdat we het samen zelf organiseren. Geen verplichte sponsoring meer van de leefstijlen van "topbestuurders". 
+- Deelnemen in een coöperatie stimuleert gevoelens van eigenwaarde én van verbondenheid.
+- De energiecoöperatie stelt een voorbeeld voor de organisatie van maatschappelijke activiteiten in andere domeinen.
+
+
+
