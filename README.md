@@ -19,8 +19,8 @@ Iedereen heeft het over de energitransitie. Een wolk van creativiteit. Kansen. I
 - [De financiële paragraaf](#de-financiële-paragraaf)
   - [Eigen inleg](#eigen-inleg)
   - [Rekenen](#rekenen)
-- [Waarheen, waarvoor?](#waarheen-waarvoor)
-  - [Rome](#rome)
+- [Waarom New ACE?](#waarom-new-ace)
+  - [Duurzaam duurzaam](#duurzaam-duurzaam)
 
 ## New ACE - Opslag as a Service
 New ACE is Autonome Coöperatieve Energie. De basisgedachte is deze:
@@ -62,16 +62,16 @@ De aanschaf van nieuwe installaties wordt betaald uit de investeringspot, die ge
 
 Op je nota zie je elke maand precies welke kosten er zijn meegeteld en hoe de verrekening per kilowattuur is gedaan. Op de website kan je op elk moment inzien welke installaties er zijn en hoe het kostenplaatje van elke installatie er voorstaat.
 
-## Waarheen, waarvoor?
-Zoals gezegd, New ACE organiseert de productie en levering van trammelantvrije duurzame en voordelige coöperatieve energie, voor en door de deelnemers zelf. Dit is wat we daarmee willen bereiken:
+## Waarom New ACE?
+Zoals gezegd: New ACE organiseert de productie en levering van trammelantvrije duurzame en voordelige coöperatieve energie, voor en door de deelnemers zelf. Daarmee willen we het _Grand Slam_ halen, dat deze vier doelen beslaat:
 
-- Voor wonen en autorijden is geen brandstof meer nodig. De lucht wordt schoner. De klimaatopwarming wordt afgeremd. Veel gevaarlijke mijnbouwactiviteiten zijn overbodig.
-- We betalen alleen wat we zelf gebruiken, omdat we het samen zelf organiseren. Geen verplichte sponsoring meer van de leefstijlen van "topbestuurders" en grootaandeelhouders. 
-- Deelnemen in een coöperatie stimuleert gevoelens van eigenwaarde én van verbondenheid. We voelen ons lekkerder.
-- De energiecoöperatie stelt een voorbeeld voor de organisatie van maatschappelijke activiteiten in andere domeinen.
+- **Parijs** Voor wonen en autorijden is geen brandstof meer nodig. De lucht wordt schoner. De klimaatopwarming wordt afgeremd. Veel gevaarlijke mijnbouwactiviteiten zijn overbodig.
+- **Londen** We betalen alleen wat we zelf gebruiken, omdat we het samen zelf organiseren. Geen verplichte sponsoring meer van de leefstijlen van "topbestuurders" en grootaandeelhouders. 
+- **Melbourne** Deelnemen in een coöperatie stimuleert gevoelens van eigenwaarde én van verbondenheid. We voelen ons lekkerder.
+- **New York** De energiecoöperatie stelt een voorbeeld voor de organisatie van maatschappelijke activiteiten in andere domeinen.
 
-Hoe meer deelnemers, des te groter deze effecten. Bovendien: hoe meer deelnemers, des te veerkrachtiger het systeem. Het model wordt op alle punten steeds zo eenvoudig mogelijk gehouden, om de schaalbaarheid te bevorderen. Schaalbaarheid niet alleen in aantallen deelnemers, maar ook in uitbreiding over ruimte én tijd. We pinnen ons niet vast op toevallige regelingingen van een bepaald moment in een bepaald land (bijvoorbeeld de [postcoderoos](https://nl.wikipedia.org/wiki/Postcoderoos)). We doen wat hier nu werkt en daar ook en straks ook nog. En later, als we groot zijn. Ook dat is duurzaam.
+### Duurzaam duurzaam
+Hoe meer deelnemers, des te groter de effecten. Bovendien: hoe meer deelnemers, des te veerkrachtiger het systeem. Het model wordt bewust op alle punten steeds zo eenvoudig mogelijk gehouden, om de schaalbaarheid te bevorderen. Schaalbaarheid niet alleen in aantallen deelnemers, maar ook in uitbreiding over ruimte én tijd. We pinnen ons niet vast op toevallige regelingingen van een bepaald moment in een bepaald land (bijvoorbeeld de [postcoderoos](https://nl.wikipedia.org/wiki/Postcoderoos)). We doen wat hier nu werkt en daar ook en straks ook nog. En later, als we groot zijn. Ook dat is duurzaam.
 
-Om het goed te laten werken, doen we heel veel dingen niet. We doen niet slim energie in- en verkopen op de realtime- en termijnmarkten. We doen niet slim apparaten aan- en uitschakelen. We doen niet slim kleine overschotten onderling verhandelen. Wat slim lijkt, blijkt vaak uiteindelijk niet zo wijs. Het enige wat we doen is zorgen voor onze eigen energie en dat die daar komt waar die nodig is. Hoe slim is dat?
+Om het goed te laten werken, doen we heel veel dingen niet. We doen niet energie slim in- en verkopen op de realtime- en termijnmarkten. We doen niet apparaten slim aan- en uitschakelen. We doen niet kleine overschotten slim beprijzen en onderling verhandelen. Wat slim lijkt, blijkt vaak uiteindelijk niet zo wijs. Het enige wat we doen is zorgen voor onze eigen energie en dat die daar komt waar die nodig is. Hoe slim is dat?
 
-### Rome
