@@ -79,3 +79,16 @@ Hoe meer deelnemers, des te groter de effecten. Bovendien: hoe meer deelnemers, 
 
 Om het goed te laten werken, doen we heel veel dingen niet. We doen niet energie slim in- en verkopen op de realtime- en termijnmarkten. We doen niet apparaten slim aan- en uitschakelen. We doen niet kleine overschotten slim beprijzen en onderling verhandelen. Wat slim lijkt, blijkt vaak uiteindelijk niet zo wijs. Het enige wat we doen is zorgen voor onze eigen energie en dat die daar komt waar die nodig is. Hoe slim is dat?
 
+## Hulp is welkom!
+De eerste stap is een "minumum viable product" in de vorm van een eerste productie+opslag-installatie gereed, met enkele huishoudens die er gebruik van maken. Enkele concrete zaken waar we graag hulp bij kunnen gebruiken zijn:
+
+- Het ontwerp van de technische installatie
+- PV-partij
+
+- Meetsysteem
+- Anti theft
+- DAO
+- Administratiesysteem
+- Verrekeningsalgoritme
+- 
+
