@@ -21,6 +21,7 @@ Iedereen heeft het over de energitransitie. Een wolk van creativiteit. Kansen. I
   - [Rekenen](#rekenen)
 - [Waarom New ACE?](#waarom-new-ace)
   - [Duurzaam duurzaam](#duurzaam-duurzaam)
+- [Hulp is welkom!](#hulp-is-welkom)
 
 ## New ACE - Opslag as a Service
 New ACE is Autonome Coöperatieve Energie. De basisgedachte is deze:
@@ -79,3 +80,36 @@ Hoe meer deelnemers, des te groter de effecten. Bovendien: hoe meer deelnemers, 
 
 Om het goed te laten werken, doen we heel veel dingen niet. We doen niet energie slim in- en verkopen op de realtime- en termijnmarkten. We doen niet apparaten slim aan- en uitschakelen. We doen niet kleine overschotten slim beprijzen en onderling verhandelen. Wat slim lijkt, blijkt vaak uiteindelijk niet zo wijs. Het enige wat we doen is zorgen voor onze eigen energie en dat die daar komt waar die nodig is. Hoe slim is dat?
 
+## Hulp is welkom!
+Als pilot beginnen we met een "minumum viable product": een eerste productie+opslag-installatie bij iemand thuis, waarop enkele andere huishoudens zijn "aangesloten". Graag komen we daarvoor in contact met mensen die kunnen helpen met de volgende concrete zaken:
+
+- Ontwerp technische installatie
+  - Welke zonnepanelen, welke batterijen?
+  - Welke verbruiken moeten we meten?
+  - Hoe monitoren we de batterijstatus?
+  - Hoe starten en stoppen we "terugleveren" uit de batterij?
+- PV-partij/Energieleverancier
+  - Welke organisatie met een [energievergunning van ACM](https://www.acm.nl/nl/onderwerpen/energie/energiebedrijven/vergunningen/vergunninghouders-elektriciteit/) is bereid om tijdens de pilot op de betreffende aansluitingen ons verrekeningsmodel toe te passen?
+- Gastheer installatie
+  - Wie was zich al aan het oriënteren op zonnepanelen en wil nu de eerste coöperatieve installatie wel huisvesten?
+- Deelnemers
+  - Wie wil zich voor de pilot door de meewerkende energieleverancier laten aansluiten op de coöperatieve installatie?
+- Subsidie/Sponsoring
+  - Bestaan er subsidies die voor deze plannen aangevraagd kunnen worden?
+  - Welke partijen zijn te interesseren om de ontwikkeling van deze onderneming te sponsoren?
+
+Andere onderwerpen, die in een later stadium nodig zijn, maar ook meteen al parallel opgepakt zouden kunnen worden:
+
+- Hoe zit het in dit model precies met omzet- en energiebelasting?
+- Welke rechtsvorm en bestuursstructuur past het best?
+- Hoe communiceren we de standen en statussen?
+- Hoe beschermen we de installatie tegen ongemeten verbruik? Denk wietkwekerij.
+- DAO
+  - Hoe zou je de coöperatie inrichten als [Distributed Autonomous Organisation](https://www.ethereum.org/dao)?
+  - Welke voor- en nadelen zou dat met zich meebrengen?
+- Softwaresysteem voor de deelnemersadministratie
+- Softwaresysteem voor de productieadministratie
+- Algoritme voor de kostenverrekening
+- Rekenmodel voor de financieringsbehoefte
+- Productiemodel: capaciteitsberekening wind & zon & opslag, o.b.v. verbruiksprofielen, weer- en seizoenswisselingen
+- Website
