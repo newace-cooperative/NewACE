@@ -65,14 +65,14 @@ Op je nota zie je elke maand precies welke kosten er zijn meegeteld en hoe de ve
 ## Waarom New ACE?
 Zoals gezegd: New ACE organiseert de productie en levering van trammelantvrije duurzame en voordelige coöperatieve energie, voor en door de deelnemers zelf. Daarmee willen we het **Grand Slam** halen, dat deze vier doelen beslaat:
 
-- **Parijs:** Voor wonen en autorijden is geen brandstof meer nodig.</br>
-De lucht wordt schoner. De klimaatopwarming wordt afgeremd. Veel gevaarlijke mijnbouwactiviteiten zijn overbodig.
-- **Londen:** We betalen alleen wat we zelf gebruiken, omdat we het samen zelf organiseren.</br>
-Geen verplichte sponsoring meer van de leefstijlen van "topbestuurders" en grootaandeelhouders. 
-- **Melbourne:** Deelnemen in een coöperatie stimuleert gevoelens van eigenwaarde én van verbondenheid.</br>
-We voelen ons lekkerder.
-- **New York:** De energiecoöperatie stelt een voorbeeld voor autonome organisaties.</br>
-Ook in andere maatschappelijke domeinen kunnen activiteiten op deze manier worden georganiseerd.
+- **Parijs:** Brandstoffen zijn verleden tijd.</br>
+Een schonere lucht. De klimaatopwarming afgeremd. Minder riskante mijnbouwactiviteiten.
+- **Londen:** Minder is het nieuwe meer.</br>
+Minder productie is minder kosten is een beter resultaat - _energiebesparing is core business._ Sponsoring van "topbestuurders" of grootaandeelhouders is niet aan de orde.
+- **Melbourne:** We voelen ons lekkerder.</br>
+Deelnemen in een coöperatie stimuleert gevoelens van eigenwaarde én van verbondenheid.
+- **New York:** De energiecoöperatie als voorbeeld.</br>
+Ook in andere maatschappelijke domeinen kunnen activiteiten autonoom worden georganiseerd.
 
 ### Duurzaam duurzaam
 Hoe meer deelnemers, des te groter de effecten. Bovendien: hoe meer deelnemers, des te veerkrachtiger het systeem. Het model wordt bewust op alle punten steeds zo eenvoudig mogelijk gehouden, om de schaalbaarheid te bevorderen. Schaalbaarheid niet alleen in aantallen deelnemers, maar ook in uitbreiding over ruimte én tijd. We pinnen ons niet vast op toevallige regelingingen van een bepaald moment in een bepaald land (bijvoorbeeld de [postcoderoos](https://nl.wikipedia.org/wiki/Postcoderoos)). We doen wat hier nu werkt en daar ook en straks ook nog. En later, als we groot zijn. Ook dat is duurzaam.
