@@ -69,7 +69,7 @@ Zoals gezegd: New ACE organiseert de productie en levering van trammelantvrije d
 - **Parijs:** Brandstoffen zijn verleden tijd.</br>
 Een schonere lucht. De klimaatopwarming afgeremd. Minder riskante mijnbouwactiviteiten.
 - **Londen:** Minder is het nieuwe meer.</br>
-Minder productie is minder kosten is een beter resultaat - _energiebesparing is core business._ Sponsoring van "topbestuurders" of grootaandeelhouders is niet aan de orde.
+Minder productie is minder kosten is een beter resultaat - _energiebesparing is core business._
 - **Melbourne:** We voelen ons lekkerder.</br>
 Deelnemen in een coöperatie stimuleert gevoelens van eigenwaarde én van verbondenheid.
 - **New York:** De energiecoöperatie als voorbeeld.</br>
