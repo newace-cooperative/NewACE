@@ -66,7 +66,7 @@ Op je nota zie je elke maand precies welke kosten er zijn meegeteld en hoe de ve
 ## Waarom New ACE?
 Zoals gezegd: New ACE organiseert de productie en levering van trammelantvrije duurzame en voordelige coöperatieve energie, voor en door de deelnemers zelf. Daarmee willen we het **Grand Slam** halen, dat deze vier doelen beslaat:
 
-- **Parijs:** Brandstoffen zijn verleden tijd.</br>
+- **Parijs:** De schoorsteen hoeft niet te roken.</br>
 Een schonere lucht. De klimaatopwarming afgeremd. Minder riskante mijnbouwactiviteiten.
 - **Londen:** Minder is het nieuwe meer.</br>
 Minder productie is minder kosten is een beter resultaat - _energiebesparing is core business._
