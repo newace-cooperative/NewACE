@@ -116,4 +116,7 @@ Andere onderwerpen, die in een later stadium nodig zijn, maar ook meteen al para
 - Model voor de [programmaverantwoordelijkheid](https://www.tennet.eu/nl/onze-kerntaken/energie-industrie/programmaverantwoordelijken/)
   - Je zou zeggen: alles is altijd 0 (nul), want we sturen alleen het net op wat ook direct weer verbruikt wordt (om een opslag bij te vullen) en productie die we niet kunnen opslaan (of meteen verbruiken) schakelen we af.
   - Wie kan dit factchecken?
+- Huurders
+  - Voor sommige huurders zal dit hele verhaal klinken als: leuk bedacht, maar ook dit werkt weer alleen voor huizenbezitters.
+  - Welke aanpassingen aan het model zijn mogelijk zodat ook huurders volwaardig kunnen deelnemen?
 - Website
