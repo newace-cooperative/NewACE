@@ -88,6 +88,7 @@ Als pilot beginnen we met een "minumum viable product": een eerste productie+ops
   - Welke verbruiken moeten we meten?
   - Hoe monitoren we de batterijstatus?
   - Hoe starten en stoppen we "terugleveren" uit de batterij?
+  - Hoe starten en stoppen we de productie?
 - PV-partij/Energieleverancier
   - Welke organisatie met een [energievergunning van ACM](https://www.acm.nl/nl/onderwerpen/energie/energiebedrijven/vergunningen/vergunninghouders-elektriciteit/) is bereid om tijdens de pilot op de betreffende aansluitingen ons verrekeningsmodel toe te passen?
 - Gastheer installatie
@@ -112,4 +113,7 @@ Andere onderwerpen, die in een later stadium nodig zijn, maar ook meteen al para
 - Algoritme voor de kostenverrekening
 - Rekenmodel voor de financieringsbehoefte
 - Productiemodel: capaciteitsberekening wind & zon & opslag, o.b.v. verbruiksprofielen, weer- en seizoenswisselingen
+- Model voor de [programmaverantwoordelijkheid](https://www.tennet.eu/nl/onze-kerntaken/energie-industrie/programmaverantwoordelijken/)
+  - Je zou zeggen: alles is altijd 0 (nul), want we sturen alleen het net op wat ook direct weer verbruikt wordt (om een opslag bij te vullen) en productie die we niet kunnen opslaan (of meteen verbruiken) schakelen we af.
+  - Wie kan dit factchecken?
 - Website
