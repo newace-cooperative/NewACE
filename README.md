@@ -85,11 +85,11 @@ Om het goed te laten werken, doen we heel veel dingen niet. We doen niet energie
 Als pilot beginnen we met een "minimum viable product": een eerste productie+opslag-installatie bij iemand thuis, waarop enkele andere huishoudens zijn "aangesloten". Graag komen we daarvoor in contact met mensen die kunnen helpen met de volgende concrete zaken:
 
 - Ontwerp technische installatie
-  - Welke zonnepanelen, welke batterijen?
-  - Welke verbruiken moeten we meten?
-  - Hoe monitoren we de batterijstatus?
-  - Hoe starten en stoppen we "terugleveren" uit de batterij?
-  - Hoe starten en stoppen we de productie?
+  - Selectie van zonnepanelen en batterijen
+  - Meten van productie en verbruik
+  - Monitoren van de batterijstatus
+  - Starten en stoppen van het "terugleveren" uit de batterij
+  - Op- en afschakelen van de productie
 - PV-partij/Energieleverancier
   - Welke organisatie met een [energievergunning van ACM](https://www.acm.nl/nl/onderwerpen/energie/energiebedrijven/vergunningen/vergunninghouders-elektriciteit/) is bereid om tijdens de pilot op de betreffende aansluitingen ons verrekeningsmodel toe te passen?
 - Gastheer installatie
@@ -97,15 +97,15 @@ Als pilot beginnen we met een "minimum viable product": een eerste productie+ops
 - Deelnemers
   - Wie wil zich voor de pilot door de meewerkende energieleverancier laten aansluiten op de coöperatieve installatie?
 - Subsidie/Sponsoring
-  - Bestaan er subsidies die voor deze plannen aangevraagd kunnen worden?
+  - Wie kent subsidies die voor deze plannen aangevraagd kunnen worden?
   - Welke partijen zijn te interesseren voor de sponsoring van deze onderneming?
 
 Andere onderwerpen, die in een later stadium nodig zijn, maar ook meteen al parallel opgepakt zouden kunnen worden:
 
 - Hoe zit het in dit model precies met omzet- en energiebelasting?
-- Welke rechtsvorm en bestuursstructuur past het best?
-- Hoe communiceren we de standen en statussen?
-- Hoe beschermen we de installatie tegen ongemeten verbruik? Denk wietkwekerij.
+- Welke rechtsvorm/bestuursstructuur past het best?
+- Hoe communiceren we precies de standen en statussen?
+- Hoe beschermen we de installatie tegen ongemeten verbruik, i.e. hoe voorkom je dat er ingeprikt wordt achter de productiemeter? Denk wietkwekerij.
 - DAO
   - Hoe zou je de coöperatie inrichten als [Distributed Autonomous Organisation](https://www.ethereum.org/dao)?
   - Welke voor- en nadelen zou dat met zich meebrengen?
