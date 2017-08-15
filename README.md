@@ -102,7 +102,7 @@ Als pilot beginnen we met een "minimum viable product": een eerste productie+ops
 
 Andere onderwerpen, die in een later stadium nodig zijn, maar ook meteen al parallel opgepakt zouden kunnen worden:
 
-- Hoe zit het in dit model precies met omzet- en energiebelasting?
+- We verkopen feitelijk niets, maar verrekenen alleen onderling de kosten. Hoe kijkt de fiscus daar tegenaan?
 - Welke rechtsvorm/bestuursstructuur past het best?
 - Hoe communiceren we precies de standen en statussen?
 - Hoe beschermen we de installatie tegen ongemeten verbruik, i.e. hoe voorkom je dat er ingeprikt wordt achter de productiemeter? Denk wietkwekerij.
