@@ -120,3 +120,6 @@ Andere onderwerpen, die in een later stadium nodig zijn, maar ook meteen al para
   - Voor sommige huurders zal dit hele verhaal klinken als: leuk bedacht, maar ook dit werkt weer alleen voor huizenbezitters.
   - Welke aanpassingen aan het model zijn mogelijk zodat ook huurders volwaardig kunnen deelnemen?
 - Website
+
+### Contact
+Heb je vragen of opmerkingen? We horen het graag! Je kan de Github-functies gebruiken om bij te dragen aan de inhoud van deze repository. Je kan ook een e-mail sturen naar newace.cooperative@gmail.com
