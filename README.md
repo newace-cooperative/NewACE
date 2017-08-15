@@ -22,6 +22,7 @@ Iedereen heeft het over de energietransitie. Een wolk van creativiteit. Kansen. 
 - [Waarom New ACE?](#waarom-new-ace)
   - [Duurzaam duurzaam](#duurzaam-duurzaam)
 - [Hulp is welkom!](#hulp-is-welkom)
+  - [Contact](#contact)
 
 ## New ACE - Opslag as a Service
 New ACE is Autonome Coöperatieve Energie. De basisgedachte is deze:
