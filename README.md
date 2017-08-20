@@ -84,7 +84,7 @@ Om het goed te laten werken, doen we heel veel dingen niet. We doen niet energie
 ## Hulp is welkom!
 Als pilot beginnen we met een "minimum viable product": een eerste productie+opslag-installatie bij iemand thuis, waarop enkele andere huishoudens zijn "aangesloten". Graag komen we daarvoor in contact met mensen die kunnen helpen met de volgende concrete zaken:
 
-- Ontwerp technische installatie
+- [Ontwerp technische installatie](installaties.md)
   - Selectie van zonnepanelen en batterijen
   - Meten van productie en verbruik
   - Monitoren van de batterijstatus
