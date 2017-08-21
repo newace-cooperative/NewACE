@@ -9,14 +9,14 @@ Conceptueel gezien vormt de elektriciteitsvoorziening van de [coöperatie](READM
 Voor deelnemers met een installatie is de in het huishouden verbruikte stroom V te bepalen als de productie van de zonnepanelen, vermeerderd met de levering van buiten, verminderd met de teruglevering naar buiten: V = P + L - T. De verschillen tussen de begin- en eindniveaus van de batterlijlading laten we buiten beschouwing; uiteindelijk middelen die uit tot nul.
 De energiebelasting wordt alleen geheven op het aandeel van L - achter de meter verbruikte eigen opwek is en blijft vrijgesteld, ook wanneer de salderingsregeling straks verleden tijd is.
 
-Voor deelnemers zonder installatie is V gelijk aan L. P wordt er niet gemeten. T zou nul moeten zijn. Vanwege de stroombalans op het net kan het een kostenpost vormen als een "vreemde" installatie tóch gaat terugleveren. Daarom willen we T wel meten.
+Voor deelnemers zonder installatie is V gelijk aan L. P wordt er niet gemeten. T zou nul moeten zijn en wordt niet verdisconteerd.
 
 ## Operationalisering
-- Als de batterij vol is, moet de productie van de zonnepanelen stoppen.
-- Zodra er stroom uit de batterij wordt verbruikt (lokaal of via T), moet de productie (weer) starten.
+- De productie van de zonnepanelen laadt de batterij op, als die niet vol is.
+- Als de batterij vol is wordt de productie van de zonnepanelen direct lokaal verbruiktteruggeleverd aan het net, als dat niet "vol" is.
 - Alle batterijen communiceren voortdurend naar elkaar:
   - hun batterijniveau
-  - de actuele productiesterkte van de zonnepanelen
+  - de actuele productiesterkte van de panelen
 - Elke batterij stuurt aan op een batterijniveau dat gelijk is aan het gemiddelde niveau van alle batterijen.
 - Of een batterij daarvoor moet laden via L, leveren via T, of geen van beide, hangt ervan af of z'n niveau onder of boven het gemiddelde is en of de lokale productiesterkte onder of boven het gemiddelde is.
 
