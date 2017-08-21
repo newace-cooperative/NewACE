@@ -14,7 +14,9 @@ Voor deelnemers zonder installatie is V gelijk aan L. P wordt er niet gemeten. T
 ## Operationalisering
 - Als de batterij vol is, moet de productie van de zonnepanelen stoppen.
 - Zodra er stroom uit de batterij wordt verbruikt (lokaal of via T), moet de productie (weer) starten.
-- Alle batterijen communiceren voortdurend hun batterijniveau en de actuele productiesterkte naar elkaar.
+- Alle batterijen communiceren voortdurend naar elkaar:
+  - hun batterijniveau
+  - de actuele productiesterkte van de zonnepanelen
 - Elke batterij stuurt aan op een batterijniveau dat gelijk is aan het gemiddelde niveau van alle batterijen.
 - Of een batterij daarvoor moet laden via L, leveren via T, of geen van beide, hangt ervan af of z'n niveau onder of boven het gemiddelde is en of de lokale productiesterkte onder of boven het gemiddelde is.
 
@@ -23,12 +25,12 @@ We hebben dus nodig:
 - een sensor voor het batterijniveau
 - een kilowattuurmeter voor de productie (P)
 - een communicatiekanaal voor de sensorwaardes en de standen
-- een laad- en ontlaadsturing op basis van de sensorwaardes op het communicatiekanaal
+- een programmeerbare laad- en ontlaadsturing op basis van de sensorwaardes op het communicatiekanaal
 - toegang tot de meetdata (L en T) van elke aansluiting
 
 T.a.v. het communicatiekanaal: we leggen daar geen nieuwe infrastructuur voor aan, maar gebruiken de huishoudelijke internetverbinding van de installatiehuisvestende deelnemers. 
 
-Electrotechnisch gezien bestaat een installatie uit de volgende componenten:
+Elektrotechnisch gezien bestaat een installatie uit de volgende componenten:
 
 - zonnepanelen
 - kWh-meter met interface?
