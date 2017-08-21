@@ -2,7 +2,7 @@
 
 !!! work in progress ¡¡¡
 
-Conceptueel gezien vormt de elektriciteitsvoorziening van de [coöperatie](README.md) een gedistribueerd systeem van losse batterijen, elk bij een deelnemend huishouden "achter de meter", onderling verbonden via het bestaande stroomnetwerk. Verbruik ter plaatse van een installatie (in onderstaande figuur afgebeeld als een lamp), wordt gevoed uit de lokale batterij. De batterij wordt opgeladen door de zonnepanelen ter plaatse. De P in de figuur staat voor de lokale Productie en die wordt gemeten door een kilowattuurmeter. Als het batterijniveau laag is en de productie van de zonnepanelen ontoereikend, wordt de batterij geladen met stroom uit het net, die op het Levering telwerk van de meter komt (de L in de figuur). Die stroom van "buiten" wordt in principe geleverd door één of meer andere coöperatieve installaties waar de batterij nog vol genoeg is. De stroom die daar het net in gaat, loopt over het Teruglevering telwerk van de meter (T).
+Conceptueel gezien vormt de elektriciteitsvoorziening van de [coöperatie](README.md) een gedistribueerd systeem van losse batterijen, elk bij een deelnemend huishouden "achter de meter", onderling verbonden via het bestaande stroomnetwerk. Huishoudelijk verbruik ter plaatse van een installatie (in onderstaande figuur afgebeeld als een lamp), wordt gevoed uit de lokale batterij, die wordt opgeladen door de lokale zonnepanelen. De P in de figuur staat voor de lokale Productie, die wordt gemeten door een kilowattuurmeter. Als het batterijniveau laag is en de productie van de zonnepanelen ontoereikend, wordt de batterij geladen met stroom uit het net, die op het Levering telwerk van de meter komt (de L in de figuur). Die stroom van "buiten" wordt in principe geleverd door één of meer andere coöperatieve installaties waar de batterij nog vol genoeg is. De stroom die daar het net in gaat, loopt over het Teruglevering telwerk van de meter (T).
 
 ![installaties](installaties.png "installaties")
 
@@ -21,17 +21,21 @@ Voor deelnemers zonder installatie is V gelijk aan L. P wordt er niet gemeten. T
 We hebben dus nodig:
 - een sensor voor de productiesterkte
 - een sensor voor het batterijniveau
-- een communicatiekanaal voor de sensorwaardes
+- een kilowattuurmeter voor de productie (P)
+- een communicatiekanaal voor de sensorwaardes en de standen
 - een laad- en ontlaadsturing op basis van de sensorwaardes op het communicatiekanaal
+- toegang tot de meetdata (L en T) van elke aansluiting
 
 T.a.v. het communicatiekanaal: we leggen daar geen nieuwe infrastructuur voor aan, maar gebruiken de huishoudelijke internetverbinding van de installatiehuisvestende deelnemers. 
 
 Electrotechnisch gezien bestaat een installatie uit de volgende componenten:
 
 - zonnepanelen
+- kWh-meter met interface?
 - omvormer/lader?
 - sturing?
 - internetkoppeling?
+- de "slimme meter" van de netbeheerder
 - ?
 
 De verbindingen tussen deze componenten zijn weergegeven in onderstaand schema:
