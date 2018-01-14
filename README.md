@@ -87,6 +87,15 @@ De aanschaf van nieuwe installaties wordt betaald uit de investeringspot, die ge
 
 Op je nota zie je elke maand precies welke kosten er zijn meegeteld en hoe de verrekening per kilowattuur is gedaan. Op de website kan je op elk moment inzien welke installaties er zijn en wat de financiële status is van elke installatie.
 
+## The ball was in!
+We horen u denken: leuk voor alle gutmenschen, maar what about kwaadwillenden? Lekker makkelijk gratis stroom zo, voor je wietplantage!
+U hebt gelijk: we kunnen het technisch niet voorkomen dat er een draadje getrokken wordt _langs_ de productiemeter. Daarom:
+
+1. Is deelname alleen op uitnodiging.
+1. Toetsen we overal de gemeten productie aan een technisch te verwachten productie.
+1. Gaan we georganiseerd bij elkaar op visite. Dient ook weer een sociaal aspect.
+1. Moet je de installatie weer inleveren (of overnemen) als dingen niet blijven kloppen.
+
 ## Waarom New ACE?
 Zoals gezegd: New ACE organiseert de productie en levering van trammelantvrije duurzame en voordelige coöperatieve energie, voor en door de deelnemers zelf. Daarmee willen we het **Grand Slam** halen, dat deze vier doelen beslaat:
 
