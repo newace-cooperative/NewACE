@@ -29,6 +29,7 @@ Iedereen heeft het over de energietransitie. Een wolk van creativiteit. Kansen. 
 - Huishoudens autonoom organiseren
 
 ## Inhoud
+[New ACE - energie uit de toekomst](#new-ace---energie-uit-de-toekomst)
 - [New balls, please](#new-balls-please)
   - [Wat doen we niet?](#wat-doen-we-niet)
   - [Wat doen we wel?](#wat-doen-we-wel)
