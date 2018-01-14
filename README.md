@@ -3,10 +3,28 @@
 ## New balls, please
 Iedereen heeft het over de energietransitie. Een wolk van creativiteit. Kansen. Innovatie. New ACE is geen transitiemuziek. New ACE is de toekomst.
 - De transitie is een complex verhaal, de toekomst is een simpel statement. 
-- De transitie kent leidingen, de toekomst alleen kabels. 
-- De transitie kent salderen, de toekomst alleen het net.
 - De transitie kent de centrales, de toekomst is decentraal. 
+- De transitie kent salderen, de toekomst alleen het net.
+- De transitie zoekt toepassingen voor leidingen, in de toekomst neemt de kabel de leiding. 
 - De transitie kent rotte appels, de toekomst is peer to peer.
+
+### Wat doen we niet?
+- Onderling energie verhandelen
+- Apparaten "slim" aansturen
+- Handig inspelen op specifieke wet- en regelgeving
+- Losse adressen zelfvoorzienend maken
+- Aandelen uitgeven
+- Klanten werven
+- Industriële verbruikers bedienen
+
+### Wat doen we wel?
+- Schone energie produceren en delen
+- Onderling de kosten verrekenen naar rato van verbruik
+- Installaties "achter de meter" koppelen via het openbare net
+- Opslag installeren als buffer tussen productie en verbruik
+- Generiek toepasbaar zijn door het simpel te houden
+- Een vergoeding betalen voor ingelegd kapitaal
+- Huishoudens autonoom organiseren
 
 ## Inhoud
 - [New balls, please](#new-balls-please)
@@ -68,7 +86,7 @@ Op je nota zie je elke maand precies welke kosten er zijn meegeteld en hoe de ve
 Zoals gezegd: New ACE organiseert de productie en levering van trammelantvrije duurzame en voordelige coöperatieve energie, voor en door de deelnemers zelf. Daarmee willen we het **Grand Slam** halen, dat deze vier doelen beslaat:
 
 - **Parijs:** De schoorsteen hoeft niet te roken.</br>
-Een schonere lucht. De klimaatopwarming afgeremd. Minder riskante mijnbouwactiviteiten.
+Een schonere lucht. De klimaatopwarming afgeremd. Riskante mijnbouwactiviteiten vermijden.
 - **Londen:** Minder is het nieuwe meer.</br>
 Minder productie is minder kosten is een beter resultaat - _energiebesparing is core business._
 - **Melbourne:** We voelen ons lekkerder.</br>
@@ -87,9 +105,6 @@ Als pilot beginnen we met een "minimum viable product": een eerste productie+ops
 - [Ontwerp technische installatie](installaties.md)
   - Selectie van zonnepanelen en batterijen
   - Meten van productie en verbruik
-  - Monitoren van de batterijstatus
-  - Starten en stoppen van het "terugleveren" uit de batterij
-  - Op- en afschakelen van de productie
 - PV-partij/Energieleverancier
   - Welke organisatie met een [energievergunning van ACM](https://www.acm.nl/nl/onderwerpen/energie/energiebedrijven/vergunningen/vergunninghouders-elektriciteit/) is bereid om tijdens de pilot op de betreffende aansluitingen ons verrekeningsmodel toe te passen?
 - Gastheer installatie
@@ -104,8 +119,7 @@ Andere onderwerpen, die in een later stadium nodig zijn, maar ook meteen al para
 
 - We verkopen feitelijk niets, maar verrekenen alleen onderling de kosten. Hoe kijkt de fiscus daar tegenaan?
 - Welke rechtsvorm/bestuursstructuur past het best?
-- Hoe communiceren we precies de standen en statussen?
-- Hoe beschermen we de installatie tegen ongemeten verbruik, i.e. hoe voorkom je dat er ingeprikt wordt achter de productiemeter? Denk wietkwekerij.
+- Hoe communiceren we precies de meterstanden?
 - DAO
   - Hoe zou je de coöperatie inrichten als [Distributed Autonomous Organisation](https://www.ethereum.org/dao)?
   - Welke voor- en nadelen zou dat met zich meebrengen?
