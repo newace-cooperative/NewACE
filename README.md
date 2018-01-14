@@ -1,5 +1,7 @@
 # New ACE - energie uit de toekomst
 
+[Inhoud](#inhoud)
+
 ## New balls, please
 Iedereen heeft het over de energietransitie. Een wolk van creativiteit. Kansen. Innovatie. New ACE is geen transitiemuziek. New ACE is de toekomst.
 - De transitie is een complex verhaal, de toekomst is een simpel statement. 
