@@ -28,6 +28,8 @@ Iedereen heeft het over de energietransitie. Een wolk van creativiteit. Kansen. 
 
 ## Inhoud
 - [New balls, please](#new-balls-please)
+  - [Wat doen we niet?](#wat-doen-we-niet)
+  - [Wat doen we wel?](#wat-doen-we-wel)
 - [New ACE - Opslag as a Service](#new-ace---opslag-as-a-service)
   - [New ACE - de winnende opslag](#new-ace---de-winnende-opslag)
   - [Communicerende vaten](#communicerende-vaten)
