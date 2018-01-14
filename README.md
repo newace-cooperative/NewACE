@@ -42,6 +42,7 @@ Iedereen heeft het over de energietransitie. Een wolk van creativiteit. Kansen. 
 - [De financiële paragraaf](#de-financiële-paragraaf)
   - [Eigen inleg](#eigen-inleg)
   - [Rekenen](#rekenen)
+- [The ball was in!](#the-ball-was-in)
 - [Waarom New ACE?](#waarom-new-ace)
   - [Duurzaam duurzaam](#duurzaam-duurzaam)
 - [Hulp is welkom!](#hulp-is-welkom)
