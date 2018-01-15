@@ -11,6 +11,7 @@ Voor deelnemers zonder installatie is V gelijk aan L. P wordt er niet gemeten. T
 
 ## Operationalisering
 Er wordt weinig actief gestuurd. Stroom heet stroom, omdat het stroomt, net als water. Van plekken met hoge spanning naar plekken met lage spanning. Als er productie is, loopt de buffer vol, tenzij het verbruik groter is dan de productie. Als er buiten de eigen aansluiting veel verbruik is, daalt de spanning op het net en gaan we terugleveren uit de buffer. Andersom, als er buiten de eigen aansluiting veel productie is, vullen we de buffer aan. Zo verdelen we onderling onze stroom - de spanning op de kabel in de straat is een schatter voor de actuele behoefte van onze collega-deelnemers.
+De grijze rijen in onderstaand overzicht zijn situaties die weinig zullen voorkomen: de spanning op de kabel in de straat wordt deels bepaald door de productie in de buurt. Waar die productie bestaat uit zonnepanelen, zal die bij de buren niet veel anders zijn.
 
 ![cases](cases.png "cases")
 
