@@ -49,7 +49,7 @@ Iedereen heeft het over de energietransitie. Een wolk van creativiteit. Kansen. 
   - [Contact](#contact)
 
 ## New ACE - Opslag as a Service
-New ACE is Autonome Coöperatieve Energie. De basisgedachte is deze:
+New ACE is de Autonome Coöperatieve Energie. De basisgedachte is deze:
 - Energie wordt duurzaam opgewekt en lokaal opgeslagen
 - We zijn onderling allemaal verbonden met die opslag
 - We hebben er geen omkijken naar
