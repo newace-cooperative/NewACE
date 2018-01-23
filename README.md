@@ -94,7 +94,7 @@ U hebt gelijk: we kunnen het technisch niet voorkomen dat er een draadje getrokk
 
 1. Is deelname alleen op uitnodiging.
 1. Toetsen we overal de gemeten productie aan een technisch te verwachten productie.
-1. Gaan we georganiseerd bij elkaar op visite. Dient ook weer een sociaal aspect.
+1. Gaan we ter inspectie georganiseerd bij elkaar op visite. Dient ook weer een sociaal aspect.
 1. Moet je de installatie weer inleveren (of overnemen) als dingen niet blijven kloppen.
 
 ## Waarom New ACE?
